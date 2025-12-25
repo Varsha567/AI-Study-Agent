@@ -1,0 +1,48 @@
+STUDY PLAN: Operating systems
+==================================================
+
+Description: Software that manages computer hardware and software resources
+Total Hours: 12
+Level: intermediate
+
+MODULES:
+
+1. Introduction to OS (2 hours)
+   Topics:
+   • What is OS?
+   • Types of OS
+   • OS Architecture
+   • System Calls
+   Exercises:
+   • Install Linux VM
+   • Explore OS commands
+
+2. Process Management (1 hours)
+   Topics:
+   • Process vs Thread
+   • CPU Scheduling
+   • Synchronization
+   • Deadlocks
+   Exercises:
+   • Write multithreaded program
+   • Simulate scheduling
+
+3. Memory Management (4 hours)
+   Topics:
+   • Memory Allocation
+   • Virtual Memory
+   • Paging
+   • Segmentation
+   Exercises:
+   • Memory allocation simulation
+   • Page replacement algorithms
+
+4. File Systems (2 hours)
+   Topics:
+   • File Organization
+   • I/O Management
+   • Disk Scheduling
+   • File Operations
+   Exercises:
+   • File system navigation
+   • Disk scheduling simulation

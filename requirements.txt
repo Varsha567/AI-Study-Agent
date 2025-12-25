@@ -1,0 +1,2 @@
+# Minimal requirements
+python>=3.8
