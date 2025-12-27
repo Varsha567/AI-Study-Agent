@@ -1,16 +1,24 @@
-# 🤖 AI Study Assistant
+# 🤖 AI Study Assistant - IBM SkillsBuild Project
 
-A single-agent AI study assistant that creates personalized learning plans for any topic.
+An intelligent AI agent that creates personalized learning plans without external dependencies.
+
+## 🎯 Project Overview
+- **AI Agent**: Makes intelligent decisions about learning paths
+- **Pure Python**: No external APIs or dependencies
+- **Personalized**: Adapts to topic, hours, and skill level
+- **Interactive**: Multiple learning paths (study, quiz, selective)
+- **Educational**: Real curriculum for CS topics
 
 ## 🚀 Features
-- **Personalized Syllabus**: Creates structured study plans based on topic, hours, and level
-- **Topic Intelligence**: Has built-in knowledge for common CS topics
-- **Level Adjustment**: Adapts content for beginner/intermediate/advanced learners
-- **Study Guidance**: Provides step-by-step learning guidance
-- **Exercises & Tips**: Includes practical exercises and learning tips
-- **Weekly Plan**: Creates realistic weekly study schedules
+1. **Intelligent Syllabus Generation**
+2. **Level-based Content Adaptation**
+3. **Weekly Study Scheduling**
+4. **Diagnostic Quiz System**
+5. **Multiple Learning Paths**
+6. **Progress Tracking**
+7. **File Export**
 
-## 📦 Installation
+## 📦 Installation & Run
 ```bash
-# Just Python 3.8+ required
-python --version  # Should show 3.8+
+# Only Python 3.8+ needed
+python main.py
