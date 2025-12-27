@@ -18,6 +18,9 @@ An intelligent AI agent that creates personalized learning plans without externa
 6. **Progress Tracking**
 7. **File Export**
 
+## Architecture
+<img width="471" height="201" alt="Agent_Architecture drawio" src="https://github.com/user-attachments/assets/22cd1e3f-dede-47ae-830c-fef11cec937b" />
+
 ## 📦 Installation & Run
 ```bash
 # Only Python 3.8+ needed
